@@ -6,4 +6,5 @@ bitbucket.org: ~~atlassian.com~~ bitbucket.org
 bikesharetoronto.com: v2 -last4 + @1
 gov.uk: v2 -last4
 decathlon.co.uk
+ehic.org.uk: v2 + !
 
